@@ -2,46 +2,47 @@
 
 # VisualizeStats
 Data visualization techniques! Dive into histograms, bar charts, and more to uncover patterns in age, gender, and other population characteristics.”
-**#TASK1**
+
 
 
 **Table of Contents**
-1.	Introduction
+**1.	Introduction**
 
-• Significance of Data Analysis and Visualization
+   • Significance of Data Analysis and Visualization
 
-• Purpose of the Project
-2.	Dataset Overview
+   • Purpose of the Project
 
-• Description of the "world_population_dataset"
+**2.	Dataset Overview**
 
-• Coverage Period and Demographic Details
+  • Description of the "world_population_dataset"
 
-3.	Project Goals
+  • Coverage Period and Demographic Details
 
-• Objectives and Tasks
+**3.	Project Goals**
 
-• Visualization Methods Employed
+  • Objectives and Tasks
 
-4.	Data Examination
+  • Visualization Methods Employed
 
-• Analysis of Age Distribution
+**4.	Data Examination**
 
-•Analysis of Gender Distribution
+  • Analysis of Age Distribution
 
-5.	Visualization Methods
+  • Analysis of Gender Distribution
 
-•Creation of Customizable Charts
+**5.	Visualization Methods**
 
-•Tools and Techniques Utilized
+  • Creation of Customizable Charts
 
-6.	Findings
+  • Tools and Techniques Utilized
 
-•Insights from Age Distribution Analysis
+**6.	Findings**
 
-•Insights from Gender Distribution Analysis
+  • Insights from Age Distribution Analysis
 
-7.	Conclusion
+  • Insights from Gender Distribution Analysis
+
+**7.	Conclusion**
 ________________________________________
 
 **1.Introduction**

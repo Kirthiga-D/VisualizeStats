@@ -37,8 +37,11 @@ The project utilizes the "world_population_dataset," which includes population d
 The primary task is to analyze the "world_population_dataset" to enhance the presentation of data. By creating customizable charts, the project aims to clearly present insights into age distribution and gender composition, thereby deepening the understanding of global demographic changes.
 
 **Data Examination**
+
 **The analysis focuses on:**
 **1.	Age Distribution:** Evaluating the distribution of different age groups across various years and regions.
+
+
 **2.	Gender Distribution:** Assessing the proportion of genders within the population over the selected period.
 
 **Visualization Methods**
@@ -46,6 +49,8 @@ To effectively present the data insights, a variety of customizable charts are c
 
 **Findings**
 **•	Age Distribution:** The analysis identifies significant trends and changes in age demographics over the years.
+
+
 **•	Gender Distribution:** The visualizations highlight gender ratios across different regions and time periods, providing insights into gender-based demographic patterns.
 
 

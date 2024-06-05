@@ -1,3 +1,5 @@
+<img width="863" alt="image" src="https://github.com/Kirthiga-D/VisualizeStats/assets/123620148/bb456957-1093-4c4a-9365-6248de0ceb61">
+
 # VisualizeStats
 Data visualization techniques! Dive into histograms, bar charts, and more to uncover patterns in age, gender, and other population characteristics.”
 **#TASK1**

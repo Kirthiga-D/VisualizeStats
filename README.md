@@ -6,6 +6,7 @@ Data visualization techniques! Dive into histograms, bar charts, and more to unc
 
 
 **Table of Contents**
+
 **1.	Introduction**
 
    • Significance of Data Analysis and Visualization
